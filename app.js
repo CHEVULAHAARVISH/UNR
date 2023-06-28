@@ -259,5 +259,5 @@ redeemButton.addEventListener("click", redeem);
 // Connect wallet and update balance on page load
 connectWallet();
 
-// Update balance periodically (e.g., every 5 seconds)
+
 setInterval(getBalance, 5000);
