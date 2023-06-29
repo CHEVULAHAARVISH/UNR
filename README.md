@@ -16,7 +16,7 @@ The project consists of a Solidity smart contract (`UNREAL.sol`) and a web inter
 
 - The exchange rate is set to 3 nUSD tokens for every 1 ETH deposited. This value can be modified in the contract.
 
-Remote Hosted Project
+## Remote Hosted Link
 
 You can access the remotely hosted nUSD Contract Interaction project by visiting the following link:
 
