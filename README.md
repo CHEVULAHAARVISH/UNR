@@ -33,6 +33,8 @@ To run the project locally, follow these steps:
    ```
 3. Open the vscode editor and hit live server .
 
+3a. Add install live serveer if you dont have that extension.
+
 4. Open the `index.html` file in your web browser.
 
 5. Connect your wallet by clicking the "Connect Wallet" button. Grant the necessary permissions when prompted.
