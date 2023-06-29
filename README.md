@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
    ```bash
    cd UNR
    ```
-3.open your idle editor example vs code and hit live server
+3. Open the vscode editor and hit live server .
 
 4. Open the `index.html` file in your web browser.
 
