@@ -13,8 +13,16 @@ The project consists of a Solidity smart contract (`UNREAL.sol`) and a web inter
 ### Assumptions
 
 - The project assumes that users have MetaMask or a compatible Ethereum wallet installed on their web browser.
-- The project is running locally in users machine.
+
 - The exchange rate is set to 3 nUSD tokens for every 1 ETH deposited. This value can be modified in the contract.
+
+Remote Hosted Project
+
+You can access the remotely hosted nUSD Contract Interaction project by visiting the following link:
+
+Project Link: https://chevulahaarvish.github.io/UNR/
+
+Feel free to explore and interact with the nUSD contract using the remote interface!
 
 ## How to Run the Project
 
@@ -31,9 +39,7 @@ To run the project locally, follow these steps:
    ```bash
    cd UNR
    ```
-3. Open the vscode editor and hit live server .
-
-3a. Add install live serveer if you dont have that extension.
+3. Open the vscode editor and hit live server(add install live serveer if you dont have that extension. ) .
 
 4. Open the `index.html` file in your web browser.
 
