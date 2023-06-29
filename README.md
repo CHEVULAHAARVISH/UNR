@@ -30,18 +30,19 @@ To run the project locally, follow these steps:
    ```bash
    cd UNR
    ```
+3.open your idle editor example vs code and hit live server
 
-3. Open the `index.html` file in your web browser.
+4. Open the `index.html` file in your web browser.
 
-4. Connect your wallet by clicking the "Connect Wallet" button. Grant the necessary permissions when prompted.
+5. Connect your wallet by clicking the "Connect Wallet" button. Grant the necessary permissions when prompted.
 
-5. Your nUSD token balance will be displayed in the "Balance" section.
+6. Your nUSD token balance will be displayed in the "Balance" section.
 
-6. To deposit Ether, enter the desired amount in Ether (ETH) in the "Deposit Ether" input field and click the "Deposit" button.
+7. To deposit Ether, enter the desired amount in Ether (ETH) in the "Deposit Ether" input field and click the "Deposit" button.
 
-7. To redeem nUSD tokens, enter the desired amount in nUSD tokens in the "Redeem nUSD" input field and click the "Redeem" button.
+8. To redeem nUSD tokens, enter the desired amount in nUSD tokens in the "Redeem nUSD" input field and click the "Redeem" button.
 
-8. The balance will be updated periodically to reflect any changes in your nUSD token balance.
+9. The balance will be updated periodically to reflect any changes in your nUSD token balance.
 
 **Note:** Make sure you have an active internet connection and the MetaMask extension (or a compatible Ethereum wallet) installed and configured correctly.
 
