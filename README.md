@@ -13,6 +13,7 @@ The project consists of a Solidity smart contract (`UNREAL.sol`) and a web inter
 ### Assumptions
 
 - The project assumes that users have MetaMask or a compatible Ethereum wallet installed on their web browser.
+- The project is running locally in users machine.
 - The exchange rate is set to 3 nUSD tokens for every 1 ETH deposited. This value can be modified in the contract.
 
 ## How to Run the Project
